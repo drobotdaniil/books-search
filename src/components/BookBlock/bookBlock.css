@@ -1,0 +1,36 @@
+.book-block {
+  display: flex;
+  flex-direction: column;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 10px;
+}
+
+.book-title {
+  margin: 15px 0 15px 0;
+}
+
+.book-subtitle {
+  margin: 0 0 15px 0;
+}
+
+.book-info {
+  display: flex;
+}
+
+.book-image {
+  height: 150px;
+}
+
+.book-description {
+  display: flex;
+  padding-left: 10px;
+  flex-direction: column;
+}
+
+.credits {
+  text-align: right;
+}
+
+.writer {
+  margin-bottom: 20px;
+}

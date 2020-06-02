@@ -1,0 +1,16 @@
+.content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.content__item {
+  width: 45%;
+}
+
+.content-output {
+  margin-top: 20px;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  padding: 20px 5px;
+}
+
